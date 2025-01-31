@@ -6,9 +6,9 @@ Command definition & example use for each:
 - log: use to view the history of commits to repo "git log"
 - clone: used to make a copy of a remote git repo "git clone https://github.com/masedagr8/CEG3120"
 - add: is used to tell git which files you want to include "git add project0.md"
-- rm (with untrack vs untrack & remove from workspace examples)
-- commit
-- push
+- rm (with untrack vs untrack & remove from workspace examples) rm untracks files from repo git rm --cached picture.txt(keeps in working directory) git rm picture.txt
+- commit save changes to repo "git commit -m "first commit""
+- push pushes commit to repo "git push"
 - fetch
 - merge
 - pull
