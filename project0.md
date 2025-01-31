@@ -2,10 +2,10 @@
 
 Command definition & example use for each:
 
-- status
-- log
-- clone
-- add
+- status: used to see the current state of git "git status"
+- log: use to view the history of commits to repo "git log"
+- clone: used to make a copy of a remote git repo "git clone https://github.com/masedagr8/CEG3120"
+- add: is used to tell git which files you want to include "git add project0.md"
 - rm (with untrack vs untrack & remove from workspace examples)
 - commit
 - push
